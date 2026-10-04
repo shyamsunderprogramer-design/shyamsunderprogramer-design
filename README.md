@@ -103,8 +103,8 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/main/profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D graph" width="100%">
   </picture>
 </p>
 
@@ -116,8 +116,8 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true&theme=github-dark-blue&background=0d1117">
-    <img height="165" src="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true" alt="Contribution streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true&disable_animations=true&theme=github-dark-blue&background=0d1117">
+    <img height="165" src="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true&disable_animations=true" alt="Contribution streak">
   </picture>
 </p>
 
@@ -130,8 +130,8 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/output/snake.svg" alt="Contribution snake" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="snake/snake-dark.svg">
+    <img src="snake/snake.svg" alt="Contribution snake" width="100%">
   </picture>
 </p>
 
