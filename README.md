@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Shyam Sunder 👋</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b4db&height=190&section=header&text=Shyam%20Sunder&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%C2%B7%2011%2B%20years&descAlignY=58&descSize=18&animation=fadeIn" alt="Shyam Sunder — Senior DevOps & Cloud Engineer">
+</p>
 
 <p align="center">
-  <b>Senior DevOps &amp; Cloud Engineer</b> · 11+ years · Azure &amp; AWS · Terraform · Kubernetes<br>
-  Building AI tools that make a job search less of a grind
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00B4DB&center=true&vCenter=true&width=640&lines=Azure+%26+AWS+platforms+that+heal+themselves;Terraform+modules+with+policy+built+in;Kubernetes+%C2%B7+GitOps+%C2%B7+zero-trust+runtime;Building+AI+tools+that+make+job+search+easier" alt="What I do">
 </p>
 
 <p align="center">
@@ -98,19 +99,40 @@ MIG, DCGM metrics into Prometheus and Grafana, PyTorch training and Triton infer
 Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Python.
 <br>`Python` `Gemini` `Google ADK`
 
+### 🏙️ Contributions in 3D
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/main/profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D graph" width="100%">
+  </picture>
+</p>
+
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamsunderprogramer-design&theme=github" alt="Contributions over the last year" width="90%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true&theme=github_dark&bg_color=0d1117">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true&theme=github-dark-blue&background=0d1117">
+    <img height="165" src="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true" alt="Contribution streak">
+  </picture>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true" alt="GitHub stats">
-  <img height="160" src="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true" alt="Contribution streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderprogramer-design&layout=compact&hide_border=true&disable_animations=true&theme=github_dark&bg_color=0d1117">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderprogramer-design&layout=compact&hide_border=true&disable_animations=true" alt="Top languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderprogramer-design&layout=compact&hide_border=true&disable_animations=true" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/shyamsunderprogramer-design/shyamsunderprogramer-design/output/snake.svg" alt="Contribution snake" width="100%">
+  </picture>
 </p>
 
 ---
@@ -118,4 +140,8 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 <p align="center">
   💼 Open to <b>Senior DevOps, SRE and Platform Engineering</b> roles — remote, or relocating from Washington.<br>
   📫 <a href="mailto:shyamsunder.work78@gmail.com">shyamsunder.work78@gmail.com</a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,50:2c5364,100:0f2027&height=110&section=footer" alt="">
 </p>
