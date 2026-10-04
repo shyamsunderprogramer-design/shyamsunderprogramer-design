@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b4db&height=190&section=header&text=Shyam%20Sunder&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%C2%B7%2011%2B%20years&descAlignY=58&descSize=18&animation=fadeIn" alt="Shyam Sunder — Senior DevOps & Cloud Engineer">
+  <img width="100%" src="assets/header.svg" alt="Shyam Sunder — Senior DevOps & Cloud Engineer">
 </p>
 
 <p align="center">
@@ -143,5 +143,5 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,50:2c5364,100:0f2027&height=110&section=footer" alt="">
+  <img width="100%" src="assets/footer.svg" alt="">
 </p>

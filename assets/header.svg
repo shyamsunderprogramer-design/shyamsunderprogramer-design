@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Shyam Sunder — Senior DevOps &amp; Cloud Engineer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/><stop offset="0.5" stop-color="#2c5364"/><stop offset="1" stop-color="#00b4db"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1080 210 960 220 840 196S600 140 480 150 240 214 120 212 0 190 0 190Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+      M0 0H1200V170C1080 210 960 220 840 196S600 140 480 150 240 214 120 212 0 190 0 190Z;
+      M0 0H1200V186C1080 166 960 206 840 214S600 170 480 160 240 196 120 176 0 172 0 172Z;
+      M0 0H1200V170C1080 210 960 220 840 196S600 140 480 150 240 214 120 212 0 190 0 190Z"/>
+  </path>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff" text-anchor="middle">
+    <text x="600" y="92" font-size="56" font-weight="700">Shyam Sunder
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></text>
+    <text x="600" y="136" font-size="20" opacity="0.92">Senior DevOps &amp; Cloud Engineer · 11+ years</text>
+  </g>
+</svg>
