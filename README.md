@@ -98,11 +98,19 @@ MIG, DCGM metrics into Prometheus and Grafana, PyTorch training and Triton infer
 Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Python.
 <br>`Python` `Gemini` `Google ADK`
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderprogramer-design&layout=compact&hide_border=true" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamsunderprogramer-design&theme=github" alt="Contributions over the last year" width="90%">
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shyamsunderprogramer-design&show_icons=true&hide_border=true&count_private=true&hide_rank=true&disable_animations=true" alt="GitHub stats">
+  <img height="160" src="https://streak-stats.demolab.com?user=shyamsunderprogramer-design&hide_border=true" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderprogramer-design&layout=compact&hide_border=true&disable_animations=true" alt="Top languages">
 </p>
 
 ---
