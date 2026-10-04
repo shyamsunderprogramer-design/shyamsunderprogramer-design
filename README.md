@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:shyamsunder.work78@gmail.com"><img src="https://img.shields.io/badge/Email-shyamsunder.work78%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Senior%20DevOps%20%C2%B7%20SRE%20%C2%B7%20Platform-2ea44f" alt="Open to work">
-  <img src="https://img.shields.io/badge/Location-WA%2C%20USA%20%C2%B7%20open%20to%20relocate-0969da" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Texas%2C%20USA-0969da" alt="Location">
 </p>
 
 ---
@@ -138,7 +138,7 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 ---
 
 <p align="center">
-  💼 Open to <b>Senior DevOps, SRE and Platform Engineering</b> roles — remote, or relocating from Washington.<br>
+  💼 Open to <b>Senior DevOps, SRE and Platform Engineering</b> roles — remote or on-site.<br>
   📫 <a href="mailto:shyamsunder.work78@gmail.com">shyamsunder.work78@gmail.com</a>
 </p>
 
