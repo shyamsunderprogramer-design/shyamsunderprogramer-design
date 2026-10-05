@@ -26,6 +26,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d/rainbow-live-light.json
+      # Rise from the floor in a wave, first week to last, each bar settling as it lands.
+      - name: Make the bars rise in a wave
+        run: python3 .github/scripts/grow.py profile-3d-contrib/profile-rainbow-live-dark.svg profile-3d-contrib/profile-rainbow-live-light.svg
       - name: Save the images
         run: |
           git config user.name "github-actions[bot]"
