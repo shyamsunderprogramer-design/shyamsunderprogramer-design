@@ -103,8 +103,8 @@ Building AI agents on Gemini with Google's Agent Development Kit (ADK) for Pytho
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="My contributions as a 3D graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-rainbow-live-dark.svg">
+    <img src="profile-3d-contrib/profile-rainbow-live-light.svg" alt="My contributions as a live 3D graph" width="100%">
   </picture>
 </p>
 

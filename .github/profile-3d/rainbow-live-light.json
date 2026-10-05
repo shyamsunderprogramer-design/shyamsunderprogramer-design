@@ -1,0 +1,14 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-rainbow-live-light.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1f2328",
+  "strongColor": "rgb(207,34,46)",
+  "weakColor": "#57606a",
+  "radarColor": "rgb(9,105,218)",
+  "growingAnimation": true,
+  "saturation": "70%",
+  "contribLightness": ["80%", "70%", "60%", "52%", "45%"],
+  "duration": "8s",
+  "hueRatio": -7
+}
